@@ -1,0 +1,220 @@
+{
+    "total": 770,
+    "pp": 12,
+    "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "totalPages": 65,
+    "livros": [
+        {
+            "titulo": "AS AVENTURAS DE DORINHA",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 54,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850131/as-aventuras-de-dorinha.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850131/as-aventuras-de-dorinha",
+            "link_comprar": "/Carrinho?add=9786554850131",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Cl\u00e1udio Thebas",
+                    "link": "/colaborador/01216/claudio-thebas"
+                }
+            ]
+        },
+        {
+            "titulo": "O CLUBE DO PEPEZINHO: COM PROP\u00d3SITO",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 54,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850025/o-clube-do-pepezinho-com-proposito.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850025/o-clube-do-pepezinho-com-proposito",
+            "link_comprar": "/Carrinho?add=9786554850025",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Dav Pilkey",
+                    "link": "/colaborador/05616/dav-pilkey"
+                }
+            ]
+        },
+        {
+            "titulo": "PISCINA",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 64,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786581776435/piscina.jpg",
+            "desconto": 0,
+            "link": "/livro/9786581776435/piscina",
+            "link_comprar": "/Carrinho?add=9786581776435",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "JiHyeon Lee",
+                    "link": "/colaborador/20151/jihyeon-lee"
+                }
+            ]
+        },
+        {
+            "titulo": "PASSA-ANEL",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 59,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850124/passa-anel.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850124/passa-anel",
+            "link_comprar": "/Carrinho?add=9786554850124",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Fits",
+                    "link": "/colaborador/11312/fits"
+                },
+                {
+                    "nome": "Nicole Jan\u00e9r",
+                    "link": "/colaborador/20162/nicole-janer"
+                }
+            ]
+        },
+        {
+            "titulo": "AQUI E AQUI",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 54,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850094/aqui-e-aqui.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850094/aqui-e-aqui",
+            "link_comprar": "/Carrinho?add=9786554850094",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Caio Zero",
+                    "link": "/colaborador/20123/caio-zero"
+                }
+            ]
+        },
+        {
+            "titulo": "A MENINA JUR\u00c1SSICA",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 49,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850070/a-menina-jurassica.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850070/a-menina-jurassica",
+            "link_comprar": "/Carrinho?add=9786554850070",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Vanna Vinci",
+                    "link": "/colaborador/20132/vanna-vinci"
+                }
+            ]
+        },
+        {
+            "titulo": "O LIVRO DA HIST\u00d3RIA DA COMUNICA\u00c7\u00c3O",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 69,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9788574069531/o-livro-da-historia-da-comunicacao.jpg",
+            "desconto": 0,
+            "link": "/livro/9788574069531/o-livro-da-historia-da-comunicacao",
+            "link_comprar": "/Carrinho?add=9788574069531",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Ot\u00e1vio Roth",
+                    "link": "/colaborador/20111/otavio-roth"
+                },
+                {
+                    "nome": "Ruth Rocha",
+                    "link": "/colaborador/01163/ruth-rocha"
+                }
+            ]
+        },
+        {
+            "titulo": "O LIVRO DA HIST\u00d3RIA DO LIVRO",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 69,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9788574069548/o-livro-da-historia-do-livro.jpg",
+            "desconto": 0,
+            "link": "/livro/9788574069548/o-livro-da-historia-do-livro",
+            "link_comprar": "/Carrinho?add=9788574069548",
+            "label_comprar": "pr\u00e9-venda",
+            "autores": [
+                {
+                    "nome": "Ot\u00e1vio Roth",
+                    "link": "/colaborador/20111/otavio-roth"
+                },
+                {
+                    "nome": "Ruth Rocha",
+                    "link": "/colaborador/01163/ruth-rocha"
+                }
+            ]
+        },
+        {
+            "titulo": "MINHA V\u00d3 IA AO CINEMA",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 59,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850032/minha-vo-ia-ao-cinema.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850032/minha-vo-ia-ao-cinema",
+            "link_comprar": "/Carrinho?add=9786554850032",
+            "label_comprar": "comprar agora",
+            "autores": [
+                {
+                    "nome": "Paula Marconi de Lima",
+                    "link": "/colaborador/05247/paula-marconi-de-lima"
+                }
+            ]
+        },
+        {
+            "titulo": "ALMO\u00c7O DE FAM\u00cdLIA",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 64,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786581776299/almoco-de-familia.jpg",
+            "desconto": 0,
+            "link": "/livro/9786581776299/almoco-de-familia",
+            "link_comprar": "/Carrinho?add=9786581776299",
+            "label_comprar": "comprar agora",
+            "autores": [
+                {
+                    "nome": "Janaina Tokitaka",
+                    "link": "/colaborador/02497/janaina-tokitaka"
+                }
+            ]
+        },
+        {
+            "titulo": "DOMINGO",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 59,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786554850018/domingo.jpg",
+            "desconto": 0,
+            "link": "/livro/9786554850018/domingo",
+            "link_comprar": "/Carrinho?add=9786554850018",
+            "label_comprar": "comprar agora",
+            "autores": [
+                {
+                    "nome": "Marcelo Tolentino",
+                    "link": "/colaborador/05868/marcelo-tolentino"
+                }
+            ]
+        },
+        {
+            "titulo": "HIST\u00d3RIAS DA PRETA (NOVA EDI\u00c7\u00c3O)",
+            "selo": "Companhia das Letrinhas",
+            "preco": "R$ 54,90",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/160/9786581776664/historias-da-preta-nova-edicao.jpg",
+            "desconto": 0,
+            "link": "/livro/9786581776664/historias-da-preta-nova-edicao",
+            "link_comprar": "/Carrinho?add=9786581776664",
+            "label_comprar": "comprar agora",
+            "autores": [
+                {
+                    "nome": "Heloisa Pires Lima",
+                    "link": "/colaborador/00899/heloisa-pires-lima"
+                }
+            ]
+        }
+    ]
+}
